@@ -24,7 +24,7 @@
 - **Full Stack Developer** @ NetzSoft (2016 – Present) 
 - **Full Stack Developer** @ RedLab (Gouda Netherlands) (2021 – 2024)   
 - **Full Stack Developer** @ Safaltek Software Solution Pvt. Ltd  (2020 – 2021)  
-- **Web Developer** @ MindField Software Solution Pvt. Ltd (2013 – 2026)  
+- **Software Engineer** @ MindField Software Solution Pvt. Ltd (2013 – 2026)  
 
 ---
 
