@@ -9,12 +9,12 @@
 
 ### 👨‍💻 About Me  
 - 💻 **Full Stack .NET Core Developer** with **12+ years of experience** in building scalable web, desktop, and mobile apps.  
-- 🔧 Expertise in **ASP.NET MVC, ASP.NET Core, Blazor, Angular, ReactJS, Next.js, SignalR, RabbitMQ, CQRS, MediatR**.  
+- 🔧 Expertise in **ASP.NET MVC, ASP.NET Core, Blazor, C#, VB.Net, Window Forms, , Angular, ReactJS, Next.js, SignalR, RabbitMQ, CQRS, MediatR**.  
 - ☁️ Skilled in **Azure & AWS**, with CI/CD pipelines, GitHub Actions, cloud-native and IIS deployments.  
 - 📱 Hands-on with **MAUI, WinForms,Console App, Scheduler**, and cross-platform mobile/desktop solutions.  
-- 🛠️ Strong experience with **EF Core, Dapper, Repository Pattern,Uow,Clean Arch., N-Layered, LINQ, and database optimization**.  
+- 🛠️ Strong experience with **EF Core, Dapper, Repository Pattern, Uow, Clean Arch., N-Layered, LINQ, and DB Optimization**.  
 - 🎨 Frontend mastery: **JavaScript, TypeScript, jQuery, Bootstrap, HTML5, CSS3, Responsive UI**.  
-- 🛢️ Database : **SQL Server, MySQL,POstGres, MongoDB, No SQL DB** 
+- 🛢️ Database : **SQL Server, MySQL, Postgres, MongoDB, No SQL DB** 
 - 🌱 Currently diving into **AI/ML integrations** and advanced system design.  
 - 🎯 Passionate about solving real-world problems and creating impactful software solutions.  
 
