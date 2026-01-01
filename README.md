@@ -41,7 +41,6 @@
 #### **Cloud & DevOps**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/github-actions/github-actions.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
 
 #### **Databases**  
