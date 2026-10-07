@@ -128,7 +128,7 @@ Seasoned **Full-Stack Solutions Architect and Lead Engineer** with **12+ years o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravindersharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=61afef&icon_color=e5c07b&text_color=abb2bf&bg_color=1e222a" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ravindersharma&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&icon_color=e5c07b&text_color=abb2bf&bg_color=1e222a" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindersharma&layout=compact&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&bg_color=1e222a" width="48%" />
 
 <br/>
