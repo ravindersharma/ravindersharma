@@ -9,9 +9,22 @@
 [![Email](https://img.shields.io/badge/Email-ravindersharma583%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravindersharma583@gmail.com)
 [![Location](https://img.shields.io/badge/Location-India%20%7C%20Remote%20Global-0052CC?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,45,60&height=180&section=header&text=Architecting%20Next-Gen%20Systems&fontSize=38&fontAlignY=38&animation=twinkling&desc=14%2B%20Years%20Engineering%20%7C%20Full%20.NET%20Spectrum%20%7C%20Rust%20%26%20Python%20%7C%20Legacy%20Modernization%20%7C%20Applied%20AI&descAlignY=62&descSize=18" width="100%" />
+---
+
+### ⚡ At a Glance
+
+<div align="center">
+
+| Metric / Domain | Core Focus & Proven Track Record |
+| :--- | :--- |
+| ⏳ **Experience** | **14+ Years** end-to-end software engineering & enterprise solution architecture |
+| 🎯 **Primary Specialization** | **Dual .NET Mastery:** Modern cloud-native **.NET (Latest)** & classic **.NET Framework (2.0–4.8)** |
+| 🔄 **Legacy Modernization** | Migrating legacy monoliths (WebForms/WCF/WinForms) ➔ **React, Vite, Bun, Node.js, Next.js & Microservices** |
+| ⚡ **Performance & Native** | High-throughput, CPU & memory optimization using **Rust**, **Python**, and concurrency patterns |
+| 🤖 **Applied Generative AI** | Productionizing **ComfyUI custom nodes**, voice synthesis (TTS / RVC), LLM tool integrations |
+| 🏛️ **Architecture & Scale** | Clean Architecture, Onion, DDD, CQRS, MediatR, RabbitMQ, Docker & Azure/AWS |
 
 </div>
 
@@ -22,7 +35,7 @@
 Seasoned **Principal Full-Stack Solutions Architect and Lead Systems Engineer** with **14+ years of hands-on enterprise engineering experience**. Deep mastery across the entire Microsoft development lifecycle—from classic enterprise **.NET Framework (2.0 through 4.8)** to cutting-edge **modern .NET (Latest)**, along with high-performance native stacks (**Rust & Python**) and bleeding-edge Applied Generative AI systems.
 
 - ⚡ **The Full .NET Spectrum:** Dual expertise in foundational **.NET Framework (2.0, 3.5, 4.0, 4.5, 4.8)** enterprise monoliths and modern cloud-native **.NET (Latest)** microservices & Web APIs.
-- 🔄 **Legacy Modernization & Architecture Transformation:** Specialized in deconstructing complex legacy monolithic systems (ASP.NET WebForms, WCF, WinForms, legacy MVC) and re-platforming to high-velocity stacks (**React, Vite, Bun, Node.js, Next.js, and Clean Microservices**).
+- 🔄 **Legacy Modernization & Architecture Transformation:** Specialized in deconstructing complex legacy monolithic systems (ASP.NET WebForms, ASMX, WCF, WinForms, legacy MVC) and re-platforming to high-velocity stacks (**React, Vite, Bun, Node.js, Next.js, and Clean Microservices**).
 - 🚀 **High-Performance & Systems Engineering:** Building memory-safe, CPU-efficient, and low-latency workloads with **Rust**, **Python**, and **modern .NET**.
 - 🤖 **Applied AI & Multimodal Intelligence:** Productionizing local and cloud AI workflows — ComfyUI custom node development, LLM tool integration, voice cloning/TTS (RVC, F5-TTS, Qwen-TTS), and automated media generation pipelines.
 - 🏛️ **Enterprise Architecture & Patterns:** Domain-Driven Design (DDD), Clean Architecture, Onion Architecture, Event-Driven Systems, CQRS, MediatR, RabbitMQ, and Unit of Work.
