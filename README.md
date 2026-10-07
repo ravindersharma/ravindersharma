@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ravinder Kumar Sharma 👋
 ### Principal Full-Stack Solutions Architect & AI Systems Engineer
-**14+ Years Enterprise Architecture • High-Performance Systems (Rust & Python) • Modern Cloud & Distributed Web • Legacy Modernization**
+**14+ Years Enterprise Architecture • Modern .NET (Latest) & Full .NET Framework (2.0–4.8) • Rust & Python Performance • Legacy Modernization**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindersharma581)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0199dc5cd692bdf82a)
@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,45,60&height=180&section=header&text=Architecting%20Next-Gen%20Systems&fontSize=38&fontAlignY=38&animation=twinkling&desc=14%2B%20Years%20Engineering%20%7C%20Rust%20%26%20Python%20Performance%20%7C%20Legacy%20Migration%20%7C%20Applied%20AI&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,45,60&height=180&section=header&text=Architecting%20Next-Gen%20Systems&fontSize=38&fontAlignY=38&animation=twinkling&desc=14%2B%20Years%20Engineering%20%7C%20Full%20.NET%20Spectrum%20%7C%20Rust%20%26%20Python%20%7C%20Legacy%20Modernization%20%7C%20Applied%20AI&descAlignY=62&descSize=18" width="100%" />
 
 </div>
 
@@ -19,11 +19,12 @@
 
 ### 👨‍💼 Executive Summary
 
-Seasoned **Principal Full-Stack Solutions Architect and Lead Systems Engineer** with **14+ years of hands-on enterprise software engineering experience**. Renowned for architecting fault-tolerant distributed backends, ultra-high-performance services, seamless legacy platform modernization, and bleeding-edge Applied Generative AI systems.
+Seasoned **Principal Full-Stack Solutions Architect and Lead Systems Engineer** with **14+ years of hands-on enterprise engineering experience**. Deep mastery across the entire Microsoft development lifecycle—from classic enterprise **.NET Framework (2.0 through 4.8)** to cutting-edge **modern .NET (Latest)**, along with high-performance native stacks (**Rust & Python**) and bleeding-edge Applied Generative AI systems.
 
-- ⚡ **High-Performance & Systems Engineering:** Building memory-safe, CPU-efficient, and low-latency workloads with **Rust**, **Python**, and **modern .NET (8/9)**.
-- 🔄 **Legacy Modernization & Architecture Transformation:** Proven track record transforming monoliths, aging .NET Framework, MVC, legacy PHP/JS codebases into ultra-fast, modular stacks (**React, Node.js, Bun, Vite, Next.js, and Clean Microservices**).
-- 🤖 **Applied AI & Multimodal Intelligence:** Productionizing local and cloud-based AI workflows — ComfyUI custom node development, LLM tool integration, voice cloning/TTS (RVC, F5-TTS, Qwen-TTS), and automated media generation pipelines.
+- ⚡ **The Full .NET Spectrum:** Dual expertise in foundational **.NET Framework (2.0, 3.5, 4.0, 4.5, 4.8)** enterprise monoliths and modern cloud-native **.NET (Latest)** microservices & Web APIs.
+- 🔄 **Legacy Modernization & Architecture Transformation:** Specialized in deconstructing complex legacy monolithic systems (ASP.NET WebForms, WCF, WinForms, legacy MVC) and re-platforming to high-velocity stacks (**React, Vite, Bun, Node.js, Next.js, and Clean Microservices**).
+- 🚀 **High-Performance & Systems Engineering:** Building memory-safe, CPU-efficient, and low-latency workloads with **Rust**, **Python**, and **modern .NET**.
+- 🤖 **Applied AI & Multimodal Intelligence:** Productionizing local and cloud AI workflows — ComfyUI custom node development, LLM tool integration, voice cloning/TTS (RVC, F5-TTS, Qwen-TTS), and automated media generation pipelines.
 - 🏛️ **Enterprise Architecture & Patterns:** Domain-Driven Design (DDD), Clean Architecture, Onion Architecture, Event-Driven Systems, CQRS, MediatR, RabbitMQ, and Unit of Work.
 - ☁️ **Cloud Infrastructure & DevOps:** Azure, AWS, Docker containerization, CI/CD with GitHub Actions, Linux administration, and performance profiling.
 
@@ -33,13 +34,24 @@ Seasoned **Principal Full-Stack Solutions Architect and Lead Systems Engineer** 
 
 <table>
   <tr>
+    <td width="22%" align="center"><b>.NET Ecosystem<br/><i>(Modern & Framework)</i></b></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET_(Latest)-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET_Framework_2.0--4.8-004880?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/ASP.NET_MVC_%2F_WebForms-004880?style=flat-square&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/WCF_%26_WinForms-004880?style=flat-square&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/VB.NET-004880?style=flat-square&logo=dotnet&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td width="22%" align="center"><b>Systems & Performance</b></td>
     <td>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET_8%2F9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
       <img src="https://img.shields.io/badge/High_Concurrency-FF6F00?style=flat-square&logo=speedtest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Memory_Optimization-009688?style=flat-square&logo=speedtest&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -65,14 +77,14 @@ Seasoned **Principal Full-Stack Solutions Architect and Lead Systems Engineer** 
     </td>
   </tr>
   <tr>
-    <td width="22%" align="center"><b>Backend & Messaging</b></td>
+    <td width="22%" align="center"><b>Architecture & Messaging</b></td>
     <td>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=flat-square&logo=awsorganizations&logoColor=white" />
       <img src="https://img.shields.io/badge/CQRS_%26_MediatR-222222?style=flat-square&logo=nuget&logoColor=white" />
       <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
       <img src="https://img.shields.io/badge/ActiveMQ-D22128?style=flat-square&logo=apache&logoColor=white" />
-      <img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=flat-square&logo=awsorganizations&logoColor=white" />
+      <img src="https://img.shields.io/badge/Domain_Driven_Design-3F51B5?style=flat-square&logo=diagram-project&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -94,18 +106,19 @@ Seasoned **Principal Full-Stack Solutions Architect and Lead Systems Engineer** 
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/IIS-0078D7?style=flat-square&logo=windows&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🔄 Legacy-to-Modern Migration Expertise
+### 🔄 Legacy-to-Modern Migration & Modernization Expertise
 
-Decades of architectural evolution mean legacy monolithic debts can throttle modern engineering velocity. I specialize in complete, zero-downtime platform migrations:
-- **Legacy .NET Framework / WinForms / WCF ➔** Cross-Platform .NET 8/9, Clean Architecture, and Containerized Microservices.
-- **Legacy Monolithic Web & jQuery ➔** Modern Single Page / SSR Applications with **React, Vite, Bun, Node.js, and Next.js**.
-- **CPU & Memory Bottlenecks ➔** Native speedups using **Rust** extensions and vectorized **Python** algorithms.
+Decades of enterprise software evolution require bridging historical mission-critical systems with modern cloud infrastructure:
+- **.NET Framework (2.0 ➔ 4.8) Migration:** Deep domain expertise migrating legacy monolithic codebases (ASP.NET WebForms, ASMX, WCF services, and WinForms) to modern, cross-platform **.NET (Latest)** and containerized microservices.
+- **Frontend Modernization:** Decoupling legacy SSR/server-rendered markup into ultra-responsive SPAs and hybrid apps using **React, Vite, Bun, Node.js, and Next.js**.
+- **Performance Remediation:** Eliminating CPU and memory bottlenecks with native **Rust** extensions and vectorized **Python** algorithms.
 
 ---
 
@@ -118,7 +131,7 @@ Decades of architectural evolution mean legacy monolithic debts can throttle mod
 - ⚙️ **Full Stack Developer** @ *Safaltek Software Solutions* `(2020 – 2021)`  
   *Delivered scalable enterprise service architectures, cloud automation, and complex database tuning.*
 - 🚀 **Software Engineer** @ *MindField Software Solutions* `(2012 – 2016)`  
-  *Built foundational core web, enterprise desktop, and database systems with high reliability.*
+  *Architected and maintained mission-critical enterprise systems across .NET Framework 2.0–4.x, SQL Server, and custom desktop solutions.*
 
 ---
 
@@ -130,7 +143,7 @@ Decades of architectural evolution mean legacy monolithic debts can throttle mod
 | :--- | :--- | :--- |
 | **[TTS-Audio-Suite](https://github.com/ravindersharma/TTS-Audio-Suite)** | 🎙️ Multi-Engine Audio & Speech Synthesis | ComfyUI Custom Node, RVC, Qwen3-TTS, F5-TTS, SRT Timing |
 | **[Maestro-App](https://github.com/ravindersharma/Maestro-App)** | 🎬 Local AI Video & Image Production Studio | WanGP Pipeline, Director Mode, Generative Multimedia |
-| **[CleanArch](https://github.com/ravindersharma/CleanArch)** | 🏛️ Enterprise Clean Architecture Blueprint | .NET Core, CQRS, MediatR, Repository Pattern, EF Core |
+| **[CleanArch](https://github.com/ravindersharma/CleanArch)** | 🏛️ Enterprise Clean Architecture Blueprint | Modern .NET, CQRS, MediatR, Repository Pattern, EF Core |
 | **[OnionArchitecture](https://github.com/ravindersharma/OnionArchitecture)** | 🧅 Decoupled Enterprise Domain Architecture | ASP.NET Core, Dependency Inversion, Unit of Work |
 | **[ActiveMQPoc](https://github.com/ravindersharma/ActiveMQPoc)** | 📨 Distributed Message Queue Integration | C#, ActiveMQ, Asynchronous Event Processing |
 | **[SmartRoster / SmartSchool](https://github.com/ravindersharma/SmartRoster)** | 🏫 Enterprise Scheduling & Management | C#, ASP.NET Core, Relational Database Modeling |
@@ -158,7 +171,7 @@ Decades of architectural evolution mean legacy monolithic debts can throttle mod
 
 I am always interested in discussing enterprise system architecture, legacy-to-modern transformations, high-performance systems, or cutting-edge AI pipelines.
 
-- 💬 Let's talk about: **High-Performance Rust/Python, Distributed .NET 8/9, React/Bun/Vite Stacks, and Applied GenAI**
+- 💬 Let's talk about: **.NET Framework Modernization, Modern .NET (Latest), Rust/Python, React/Bun/Vite, and Applied GenAI**
 - 💼 Available for: **Principal Architecture Consulting, Legacy Modernization Strategy, Enterprise Tech Leadership**
 - 📬 Reach out directly via **[LinkedIn](https://www.linkedin.com/in/ravindersharma581)** or **[Email](mailto:ravindersharma583@gmail.com)**
 
